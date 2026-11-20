@@ -13,6 +13,7 @@ Computer Science student at **Tecnológico de Monterrey**. I work at the interse
 | Project | What it is | Stack |
 |---|---|---|
 | [Stella](https://github.com/Perianza18/Stella) | 2D pixel-art adventure where an astronaut otter solves six logic puzzles (deduction, symmetry, combinatorial games) to communicate with aliens. I built the Mastermind-style Level 1 and the prototypes for Levels 2 and 5, and I'm porting them to Unity. *In progress.* | Unity, C#, Python |
+| [TeacherPeri](https://github.com/Perianza18/TeacherPeri) ([live](https://teacherperi.vercel.app)) | Free Spanish-language platform for math olympiad training (OMM): study paths with progress, theory lessons, problems and practice exams. I work on the frontend: I brought the whole site into its new comic-style design, redesigned the problem, exam and list pages, and added graphs and a side index to lessons. *In progress.* | React, Vite, Tailwind, KaTeX |
 | [Prodosy](https://github.com/TEC-Andres/HackMTY-2026) | Detects synthetic callers in phone calls. I built the voice-resonance model (formants and pitch fed to a logistic regression, AUC 0.94) and co-designed the ensemble that combines three models to reach 93% accuracy. | Python, FastAPI, Praat |
 | [SWAPP](https://github.com/catherinegd7/SWAPP) | Hack4Her winner. Predicts stock-outs and customer churn for distribution centers, with an AI chatbot for supervisors, automated reports and WhatsApp voice alerts for drivers. | Python, Gemini API, MongoDB, React |
 | [Axioma](https://github.com/catherinegd7/AXIOMA) ([live](https://axioma-five-brown.vercel.app)) | Website of the Tec de Monterrey math club: a bank of 300+ Putnam and OMMU problems with LaTeX rendering, solutions, a problem of the week, per-problem progress tracking, comments, Google sign-in and an admin panel for events and resources. | React, Tailwind, Express, MongoDB |
@@ -24,7 +25,7 @@ Computer Science student at **Tecnológico de Monterrey**. I work at the interse
 
 **Languages:** Python, C++, C#, JavaScript, SQL<br>
 **AI and data:** Gemini API, audio signal processing (Praat), logistic regression, Pandas, Matplotlib<br>
-**Web:** React, Vite, Tailwind, Flask, FastAPI, Express<br>
+**Web:** React, Vite, Tailwind, KaTeX, Flask, FastAPI, Express<br>
 **Data and cloud:** MongoDB, Supabase, SQLAlchemy<br>
 **Game dev:** Unity
 
